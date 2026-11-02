@@ -1,0 +1,7 @@
+﻿Dataset,File,Original Rows,Cleaned Rows,Duplicates Removed,Missing Values,Columns
+agriculture,India Agriculture Crop Production.csv,345407,345407,0,5092,10
+education,india_cities.csv,4242,4242,0,0,2
+education,india_city_coords.csv,3708,3708,0,0,3
+education,india_colleges.csv,1203,1203,0,1466,8
+education,india_schools.csv,247,247,0,0,5
+government_schemes,indian_government_schemes.csv,4702,4702,0,35266,29
